@@ -3,7 +3,7 @@ Dart programlama dilini kullanarak Flutter ile uygulama geliştirme yolunda baş
 
 ![image](https://user-images.githubusercontent.com/82835837/133052681-8fe3b010-d5ee-4cf8-81f2-6ea7e5025f5a.png)
 
-![image](https://user-images.githubusercontent.com/82835837/133052734-17257752-a802-4a4d-9175-4ff6f438a3bf.png)
+![image](https://user-images.githubusercontent.com/82835837/133053021-3d8cb174-3485-440e-81dc-b5ded01fcc9d.png)
 
-![image](https://user-images.githubusercontent.com/82835837/133052759-f8a2951b-a482-4600-a897-27635176875d.png)
+![image](https://user-images.githubusercontent.com/82835837/133053048-48647885-cb9c-4fb1-8f2c-3280caab89eb.png)
 
